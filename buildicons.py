@@ -1,6 +1,6 @@
 help = """
 This sciprt takes 4 cli arguments:
-1. The path to the SharedCache. On windows it generaly C:/EVE/SharedCache/ or
+1. The path to the SharedCache. On windows it's generaly C:/EVE/SharedCache/ or
 %AppData%/Local/CCP/EVE/SharedCache. If you did not downloaded the entier game
 (via the launcher) you will miss some icons.
 2. The marketGroups.yaml file for SDE (https://developers.eveonline.com/).
